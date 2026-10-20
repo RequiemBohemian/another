@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Unregulated Burning in Belize City</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header / Hero -->
+  <header class="hero" id="home">
+    <div class="overlay"></div>
+    <div class="topbar">
+      <img src="skull.png" alt="Unregulated Burning Logo" class="logo" />
+      <nav class="nav">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+          <a href="#methodology">Methodology</a>
+        <a href="#data">Data</a>
+        <a href="#solutions">Solutions</a>
+        <a href="#sdg">SDG Impact</a>
+        <a href="#team">About us</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+
+    <div class="hero-content">
+      <h1>Unregulated Burning in Belize City</h1>
+      <p>Unregulated burning harms our health and environment. Our project shows the data, solutions, and SDG 3 impact.</p>
+      <p class="stat"> 65% of residents report coughing from smoke</p>
+      <a href="#about" class="cta">Explore the project</a>
+    </div>
+  </header>
+
+  <!-- About the Issue -->
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About the issue</h2>
+      <div class="grid two">
+        <div>
+          <p><strong>Definition:</strong> Unregulated burning is the open burning of trash, bush, and waste without permission or control. It releases toxic smoke and fine particles like (PM2.5) which is fine particulate matter, which can travel deep into the lungs and cause health problems.</p>
+          <p><strong>Local context:</strong> In Fabers Road and nearby neighborhoods, burning happens several times a week. Residents report coughing, eye irritation, breathing problems, and discomfort—especially during dry seasons when smoke spreads easily.</p>
+          <p><strong>Why it matters:</strong> The smoke contains irritants like sulfur dioxide and nitrogen oxides, and pollutants such as carbon monoxide and VOCs which is (Volatile Organic Compounds). These affect respiratory health and community well‑being.</p>
+          <div class="icon-cards">
+            <div class="card">
+              <h4>Health</h4>
+              <p>Coughing, eye irritation, chest tightness, and breathing difficulties.</p>
+            </div>
+            <div class="card">
+              <h4>Community</h4>
+              <p>Reduced quality of life, stress, and unsafe disposal practices.</p>
+            </div>
+            <div class="card">
+              <h4>Law</h4>
+              <p>Burning trash is illegal in Belize; fines and penalties exist but enforcement is limited.</p>
+            </div>
+          </div>
+        </div>
+        <div class="image-stack">
+          <img src="open burning.jpg" alt="Leaf burning scene" class="stack-img main" />
+          <img src="back.jpg" alt="Smoke and fire illustration" class="stack-img secondary" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Research Methodology -->
+<section id="methodology" class="section">
+  <div class="container">
+    <h2>Research Methodology</h2>
+    <p><strong>Type of research:</strong> Quantitative survey with closed‑ended questions.</p>
+    <p><strong>Population & sample:</strong> 50 households in Faber's Road, Belize City.</p>
+<p><strong>Sampling method:</strong> Systematic sampling. Every 10th household was selected after a random start.</p>
+    <p><strong>Data collection tool:</strong>Closed‑ended 10‑question survey distributed via printed forms and digital platforms like Google Forms.</p>
+    <p><strong>Procedure:</strong></p>
+    <ol class="steps">
+      <li>Prepare survey with 10 closed‑ended questions.</li>
+      <li>Select random starting household, then every 10th household.</li>
+      <li>Select random starting household, then every k‑th household.</li>
+      <li>Distribute surveys in print and online.</li>
+      <li>Allow 10–15 minutes for completion.</li>
+      <li>Collect and record responses carefully.</li>
+    </ol>
+    <p><strong>Ethics:</strong> Participation voluntary, no names collected, data kept private, participants could skip questions.</p>
+  </div>
+</section>
+
+       <!-- Survey Results -->
+<section id="data" class="section alt">
+  <div class="container">
+    <h2>Survey Results</h2>
+    <p>Our survey of 50 households in Fabers Road revealed important insights about how unregulated burning affects residents’ health and awareness. Below are the charts with explanations:</p>
+
+    <div class="chart-grid">
+      <figure>
+        <img src="1.png" alt="Chart 1" />
+        <figcaption>Health symptoms reported: 55.3% experienced coughing or irritation, while 44.7% reported no symptoms.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="2.png" alt="Chart 2" />
+        <figcaption>Frequency of burning observed: 31.6% weekly, 28.9% daily, 23.7% monthly, 15.8% rarely.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="3.png" alt="Chart 3" />
+        <figcaption>Awareness of burning laws: 57.9% knew burning is illegal, 42.1% were unaware.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="4.png" alt="Chart 4" />
+        <figcaption>Support for community rules: 71.4% supported rules against burning, 28.6% did not.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="5.png" alt="Chart 5" />
+        <figcaption>Symptoms experienced: 71.1% coughing, 18.4% eye irritation, 10.5% breathing problems.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="6.png" alt="Chart 6" />
+        <figcaption>Residents noticing smoke weekly: 65.8% yes, 34.2% no.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="7.png" alt="Chart 7" />
+        <figcaption>Sources of burning: 28.9% trash, 26.3% bush, 13.2% plastics, 13.2% yard waste, 10.5% other.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="8.png" alt="Chart 8" />
+        <figcaption>Perceived health impact: 50% strong impact, 44.7% moderate, 5.3% little impact.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="9.png" alt="Chart 9" />
+        <figcaption>Preferred solutions: 41.9% clean‑ups, 19.4% composting, 19.4% recycling, 19.4% awareness campaigns.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="10.png" alt="Chart 10" />
+        <figcaption>Community priorities: 29.7% awareness, 21.6% enforcement, 18.9% clean‑ups, 16.2% composting, 13.5% recycling.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+  <!-- Game / Solutions -->
+  <section id="solutions" class="section">
+    <div class="container">
+      <h2>community solutions</h2>
+      <div class="grid two">
+        <div>
+          <h3>Community‑based actions</h3>
+          <ul class="bullets">
+            <li><strong>Clean‑ups:</strong> Organize neighborhood clean‑ups to reduce burnable waste.</li>
+            <li><strong>Composting:</strong> Promote composting for yard waste instead of burning.</li>
+            <li><strong>Recycling:</strong> Encourage sorting and recycling to cut down trash volume.</li>
+            <li><strong>Awareness campaigns:</strong> Share health risks and legal information.</li>
+            <li><strong>Reporting hotspots:</strong> Map and report frequent burning areas.</li>
+          </ul>
+          <p><strong>Tech idea:</strong> A simple map to mark burning hotspots and proposed clean‑up sites, plus a feedback form for residents.</p>
+        </div>
+        <div>
+  </section>
+
+  <!-- SDG Impact -->
+  <section id="sdg" class="section alt">
+    <div class="container">
+      <h2>SDG impact</h2>
+      <div class="grid two">
+        <div>
+          <h3>SDG 3: Good Health and Well‑being</h3>
+          <p>Reducing unregulated burning directly supports SDG 3 by lowering illness from air pollution, improving respiratory health, and strengthening community well‑being.</p>
+          <p><strong>Targets:</strong> Reduce exposure to harmful air pollutants, promote healthy environments, and increase awareness of health risks.</p>
+        </div>
+        <div>
+          <h3>SDG 13: Climate Action</h3>
+          <p>Cutting burning reduces greenhouse gas emissions and encourages climate‑friendly waste management practices like composting and recycling.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+<section id="team" class="section">
+  <div class="container">
+    <h2>Project Overview & Reflections</h2>
+
+    <!-- Flex container for image left, text right -->
+    <div class="team-grid">
+      <!-- Image on the left -->
+      <div class="team-photo">
+        <img src="pic22.JPG" alt="Itz’at STEAM Academy Team">
+      </div>
+
+      <!-- Text on the right -->
+      <div class="team-text">
+        <h3>The group Behind the Project</h3>
+        <ul class="team-list">
+            <li><strong>Bryan Garcia</strong> — Html and CSS coding </li>
+            <li><strong>Kevin Garbutt</strong> — Research lead; survey design and data collection.</li>
+            <li><strong>Jayden Simpson</strong> —website designing and logo designing .</li>
+            <li><strong>Gregory Gilliett</strong> — creditable evidence.</li>
+          </ul>
+          <p><strong>What we learned:</strong> Unregulated burning is common and harmful, but communities can change practices with clear information, practical alternatives, and consistent action.</p>
+        </div>
+        <div>
+          <h3>How subjects contributed</h3>
+          <ul class="bullets">
+            <li><strong>QR:</strong> Designed and analyzed a 10‑question survey; collected data on burning frequency and health effects.</li>
+            <li><strong>Science & Tech:</strong> Built methodology; researched causes (waste management, burning practices); explored tech solutions.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact / Feedback -->
+  <section id="contact" class="section alt">
+    <div class="container">
+      <h2>Contact & feedback</h2>
+      <p>Share ideas, report burning hotspots, or volunteer. Your voice matters.</p>
+      <form class="contact-form" onsubmit="return false;">
+        <div class="form-row">
+          <label for="name">Name</label>
+          <input id="name" type="text" placeholder="Your name" />
+        </div>
+        <div class="form-row">
+          <label for="email">Email</label>
+          <input id="email" type="email" placeholder="you@example.com" />
+        </div>
+        <div class="form-row">
+          <label for="message">Message</label>
+          <textarea id="message" rows="5" placeholder="Share your ideas or report a hotspot..."></textarea>
+        </div>
+        <button class="btn">Send</button>
+      </form>
+      <p class="footnote">Data is kept private. Participation is voluntary. No names required.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>Itz’at STEAM Academy • Fabers Road, Belize City • SDG 3 & SDG 13</p>
+      <p>Campaign slogan: “Breathe clean—choose safer solutions, not burning.”</p>
+    </div>
+  </footer>
+
+</body>
+</html>
